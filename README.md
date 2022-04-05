@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @jmcruz14
 - 👀 I’m interested in ...
-    Data Science
-    Data Analytics
-    Machine Learning
-    Tech, in general
+    Data Science,
+    Data Analytics,
+    Machine Learning,
+    Sports and Sports Analytics (influenced by Jon Bois)
+    Entertainment and the Arts
     and **all types of MOVIES too!**
 - 🌱 I’m currently learning ...
     Python, SQL, R
