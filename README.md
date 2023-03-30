@@ -1,23 +1,21 @@
-- 👋 Hi, I’m @jmcruz14 / Jay
+👋 Hi, I’m @jmcruz14 / Jay, a recent Industrial Engineering graduate!
+
 - 👀 I’m interested in ...
-    Data Science,
-    Data Analytics,
-    Machine Learning,
-    Computer Science,
-    and anything else tech-related!
+    - Data Science
+    - Data Analytics
+    - Machine Learning
+    - and anything else tech-related!
 - 🌱 I’m currently learning ...
-    Python, SQL, R, Node.js
-    Full-stack Development
-    Information Systems
-    Data Science and Analytics
-    Industrial Engineering
+    - Python, SQL, R, Node.js
+    - Full-stack Development
+    - Information Systems
+    - Data Science and Analytics
 - ⏱ How I kill time ...
-    Video Games (RTS / Strategy / Action)
-    Reading Books
-    Figuring out Discord Ecosystems
-    Binging on lots of movies
+    - Video Games (RTS / Strategy / Action)
+    - Reading Books
+    - Analyzing and reviewing movies (You can find me being active on [Letterboxd](https://letterboxd.com/tuesjays/)
 - 📫 How to reach me ...
-    **Email**: jmcruz14@up.edu.ph / jccruz009@yahoo.com
+    - **Email**: jmcruz14@up.edu.ph / jccruz009@yahoo.com
 <!---
 jmcruz14/jmcruz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
