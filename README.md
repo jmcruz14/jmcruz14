@@ -13,7 +13,7 @@
 - ⏱ How I kill time ...
     - Video Games (RTS / Strategy / Action)
     - Reading Books
-    - Analyzing and reviewing movies (You can find me being active on [Letterboxd](https://letterboxd.com/tuesjays/)
+    - Analyzing and reviewing movies (You can find me being active on [Letterboxd](https://letterboxd.com/tuesjays/))
 - 📫 How to reach me ...
     - **Email**: jmcruz14@up.edu.ph / jccruz009@yahoo.com
 <!---
