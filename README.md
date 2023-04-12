@@ -6,9 +6,8 @@
     - Machine Learning
     - and anything else tech-related!
 - 🌱 I’m currently learning ...
-    - Python, SQL, R, Node.js
+    - Python (Datacamp Certification), HTML/CSS/JS (Udemy Course, in my free free time)
     - Full-stack Development
-    - Information Systems
     - Data Science and Analytics
 - ⏱ How I kill time ...
     - Video Games (RTS / Strategy / Action)
