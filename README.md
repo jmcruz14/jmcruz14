@@ -1,4 +1,4 @@
-👋 Hi, I’m @jmcruz14 / Jay, a recent Industrial Engineering graduate!
+👋 Hi, I’m @jmcruz14 / Jay, a recent Industrial Engineering graduate with eager pursuits in software and web development! I also enjoy doses of Python programming in my spare time!
 
 - 👀 I’m interested in ...
     - Data Science
@@ -6,9 +6,9 @@
     - Machine Learning
     - and anything else tech-related!
 - 🌱 I’m currently learning ...
-    - Python (Datacamp Certification), HTML/CSS/JS (Udemy Course, in my free free time)
-    - Full-stack Development
-    - Data Science and Analytics
+    - Javascript
+    - VIM
+    - Productivity Tools such as Obsidian.md and Raycast
 - ⏱ How I kill time ...
     - Video Games (RTS / Strategy / Action)
     - Reading Books
