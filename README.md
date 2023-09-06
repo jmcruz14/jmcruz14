@@ -14,7 +14,7 @@
     - Reading Books
     - Analyzing and reviewing movies (You can find me being active on [Letterboxd](https://letterboxd.com/tuesjays/))
 - 📫 How to reach me ...
-    - **Email**: jmcruz14@up.edu.ph / jccruz009@yahoo.com
+    - **Email**: jccruz009@yahoo.com
 <!---
 jmcruz14/jmcruz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
