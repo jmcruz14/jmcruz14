@@ -1,18 +1,13 @@
-👋 Hi, I’m @jmcruz14 / Jay, a recent Industrial Engineering graduate with eager pursuits in software and web development! I also enjoy doses of Python programming in my spare time!
+👋 Hi, I’m @jmcruz14 / Jay, a developer and aspiring data scientist with an undergraduate in Industrial Engineering!
 
 - 👀 I’m interested in ...
     - Data Science
-    - Data Analytics
-    - Machine Learning
+    - Data Engineering
     - and anything else tech-related!
 - 🌱 I’m currently learning ...
-    - Javascript
+    - Data Engineering
     - VIM
     - Productivity Tools such as Obsidian.md and Raycast
-- ⏱ How I kill time ...
-    - Video Games (RTS / Strategy / Action)
-    - Reading Books
-    - Analyzing and reviewing movies (You can find me being active on [Letterboxd](https://letterboxd.com/tuesjays/))
 - 📫 How to reach me ...
     - **Email**: jccruz009@yahoo.com
 <!---
