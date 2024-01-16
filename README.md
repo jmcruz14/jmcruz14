@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning ...
     - Data Engineering
     - VIM
-    - Productivity Tools such as Obsidian.md and Raycast
 - 📫 How to reach me ...
     - **Email**: jccruz009@yahoo.com
 <!---
