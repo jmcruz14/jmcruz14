@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...
     - VIM
 - 📫 How to reach me ...
-    - **Email**: jccruz009@yahoo.com
+    - **Email**: jcmcruz14@gmail.com
  
 ##### Certifications
 - Datacamp - Data Scientist Associate (Achieved May 2023)
