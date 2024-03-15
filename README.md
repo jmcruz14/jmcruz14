@@ -5,7 +5,9 @@
     - Data Engineering
     - and anything else tech-related!
 - 🌱 I’m currently learning ...
-    - VIM
+    - Zed IDE
+    - TypeScript
+    - React.js
 - 📫 How to reach me ...
     - **Email**: jcmcruz14@gmail.com
  
