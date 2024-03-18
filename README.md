@@ -1,4 +1,4 @@
-👋 Hi, I’m @jmcruz14 / Jay, a developer and aspiring data scientist with an undergraduate in Industrial Engineering!
+👋 Hi, I’m @jmcruz14 / Jay, a Filipino developer and aspiring data scientist with an undergraduate in Industrial Engineering!
 
 - 👀 I’m interested in ...
     - Data Science
