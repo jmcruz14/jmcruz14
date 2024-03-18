@@ -1,4 +1,6 @@
-👋 Hi, I’m @jmcruz14 / Jay, a Filipino developer and aspiring data scientist with an undergraduate in Industrial Engineering!
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=7377ab&section=header&text=Jay%20Cruz&desc=B.Sc.%20Industrial%20Engineering&fontColor=FFFFFF&fontSize=35&strokeWidth=0.2&stroke=FFFFFF&descAlignY=50&descAlign=50&fontAlignY=25"/>
+</p>
 
 - 👀 I’m interested in ...
     - Data Science
