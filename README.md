@@ -2,14 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=7377ab&section=header&text=Jay%20Cruz&desc=B.Sc.%20Industrial%20Engineering&fontColor=FFFFFF&fontSize=35&strokeWidth=0.2&stroke=FFFFFF&descAlignY=50&descAlign=50&fontAlignY=25"/>
 </p>
 
-- 👀 I’m interested in ...
-    - Data Science
-    - Data Engineering
-    - and anything else tech-related!
-- 🌱 I’m currently learning ...
-    - Zed IDE
-    - TypeScript
-    - React.js
+This is your data-driven tech builder, currently unemployed but working on plenty of projects during their spare time! Interests include web dev and the funky trifecta of Data Science, Analytics, and Engineering.
+
 - 📫 How to reach me ...
     - **Email**: jcmcruz14@gmail.com
  
