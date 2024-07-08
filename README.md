@@ -14,7 +14,7 @@ This is your data-driven tech builder, currently unemployed but working on plent
 ##### Workflow
 - Browsing: Arc
 - Spotlight: Raycast
-- IDE: VSCode / Zed
+- IDE: Nvim / VSCode
 <!---
 jmcruz14/jmcruz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
