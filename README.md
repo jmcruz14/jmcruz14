@@ -2,10 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=7377ab&section=header&text=Jay%20Cruz&desc=B.Sc.%20Industrial%20Engineering&fontColor=FFFFFF&fontSize=35&strokeWidth=0.2&stroke=FFFFFF&descAlignY=50&descAlign=50&fontAlignY=25"/>
 </p>
 
-This is your data-driven tech builder, currently unemployed but working on plenty of projects during their spare time! Interests include web dev and the funky trifecta of Data Science, Analytics, and Engineering.
+Software development is digitized carpentry, and data is the building block. Looking for work in Data Science & Engineering. 
 
 - 📫 How to reach me ...
     - **Email**: jcmcruz14@gmail.com
+    - **LinkedIn**: [Link](https://www.linkedin.com/in/juan-carlos-c-54530b16b/)
  
 ##### Certifications
 - Datacamp - Data Scientist Associate (Achieved May 2023)
