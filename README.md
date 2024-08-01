@@ -12,6 +12,11 @@ Software development is digitized carpentry, and data is the building block. Loo
 - Datacamp - Data Scientist Associate (Achieved May 2023)
 - Datacamp - Data Engineering Associate (Achieved Feb 2024)
 
+##### Stuff I'm currently exploring as of August 1, 2024
+- Golang
+- Supabase
+- Authentication layers, API building, cool Data Engineering concepts!
+
 ##### Workflow
 - Browsing: Arc
 - Spotlight: Raycast
