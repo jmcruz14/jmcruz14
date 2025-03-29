@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=7377ab&section=header&text=Jay%20Cruz&desc=B.Sc.%20Industrial%20Engineering&fontColor=FFFFFF&fontSize=35&strokeWidth=0.2&stroke=FFFFFF&descAlignY=50&descAlign=50&fontAlignY=25"/>
 </p>
 
-Software development is digitized carpentry, and data is the building block. Looking for work in Data Science & Engineering. 
+Software development is digitized carpentry, and data is the building block. 
+
+Currently working as a Django Developer on contract at EngageMedia, soon-to-be Eskwelabs mentor! (keeping it exclusively in the GitHub until I get onboarded next month :>)
 
 - 📫 How to reach me ...
     - **Email**: jcmcruz14@gmail.com
@@ -12,10 +14,9 @@ Software development is digitized carpentry, and data is the building block. Loo
 - Datacamp - Data Scientist Associate (Achieved May 2023)
 - Datacamp - Data Engineering Associate (Achieved Feb 2024)
 
-##### Stuff I'm currently exploring as of August 1, 2024
-- Golang
-- Supabase
+##### Stuff I'm currently exploring as of March 29, 2025
 - Authentication layers, API building, cool Data Engineering concepts!
+- Django
 
 ##### Workflow
 - Browsing: Arc
