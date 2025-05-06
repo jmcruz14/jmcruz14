@@ -14,9 +14,9 @@ Currently working as a Django Developer on contract at EngageMedia, soon-to-be E
 - Datacamp - Data Scientist Associate (Achieved May 2023)
 - Datacamp - Data Engineering Associate (Achieved Feb 2024)
 
-##### Stuff I'm currently exploring as of March 29, 2025
-- Authentication layers, API building, cool Data Engineering concepts!
-- Django
+##### Stuff I'm currently exploring as of May 6, 2025
+- API Wrapper development (involving an API written in GraphQL!)
+- Open Source development standards
 
 ##### Workflow
 - Browsing: Arc
