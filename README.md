@@ -9,14 +9,11 @@ Currently working as a Django Developer on contract at EngageMedia, soon-to-be E
 - 📫 How to reach me ...
     - **Email**: jcmcruz14@gmail.com
     - **LinkedIn**: [Link](https://www.linkedin.com/in/juan-carlos-c-54530b16b/)
- 
-##### Certifications
-- Datacamp - Data Scientist Associate (Achieved May 2023)
-- Datacamp - Data Engineering Associate (Achieved Feb 2024)
 
 ##### Stuff I'm currently exploring as of May 6, 2025
 - API Wrapper development (involving an API written in GraphQL!)
 - Open Source development standards
+- PySpark
 
 ##### Workflow
 - Browsing: Arc
