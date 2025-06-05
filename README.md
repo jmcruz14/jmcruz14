@@ -2,9 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=7377ab&section=header&text=Jay%20Cruz&desc=B.Sc.%20Industrial%20Engineering&fontColor=FFFFFF&fontSize=35&strokeWidth=0.2&stroke=FFFFFF&descAlignY=50&descAlign=50&fontAlignY=25"/>
 </p>
 
-Software development is digitized carpentry, and data is the building block. 
-
-Currently working as a Django Developer on contract at EngageMedia, soon-to-be Eskwelabs mentor! (keeping it exclusively in the GitHub until I get onboarded next month :>)
+Software development is digitized carpentry, and data is the building block. One of the maintenance guys for EngageMedia's Cinemata project, a mentor at Eskwelabs, and really enjoying the heck out of OSS and personal projects.
 
 - 📫 How to reach me ...
     - **Email**: jcmcruz14@gmail.com
